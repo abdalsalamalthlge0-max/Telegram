@@ -1,1 +1,6 @@
-pyTelegramBotAPI
+SQLAlchemy>=1.4
+Flask-Login>=0.6
+python-dotenv>=0.21
+pyTelegramBotAPI>=4.12
+Werkzeug>=2.1
+Pillow>=9.0
